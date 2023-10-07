@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <circle cx="256" cy="256" r="256" style="fill:rgb(235,235,235);"/>
+    <clipPath id="_clip1">
+        <circle cx="256" cy="256" r="256"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+        <g transform="matrix(1,0,0,1,0,5.60485)">
+            <rect x="0" y="182.548" width="512" height="80.962" style="fill:rgb(89,117,72);"/>
+            <g transform="matrix(1,0,0,2.32398,0,-429.843)">
+                <rect x="0" y="182.548" width="512" height="80.962" style="fill:rgb(229,219,179);"/>
+            </g>
+            <g transform="matrix(1,0,0,1,0,80.9617)">
+                <rect x="0" y="182.548" width="512" height="80.962" style="fill:rgb(120,174,195);"/>
+            </g>
+            <g transform="matrix(1,0,0,1,0,161.923)">
+                <rect x="0" y="182.548" width="512" height="80.962" style="fill:rgb(212,150,20);"/>
+            </g>
+            <g transform="matrix(1,0,0,1,0,242.885)">
+                <rect x="0" y="182.548" width="512" height="80.962" style="fill:rgb(207,24,30);"/>
+            </g>
+        </g>
+    </g>
+    <g transform="matrix(8.71522,0,0,8.71522,-1520.73,-1515.6)">
+        <g transform="matrix(12,0,0,12,229.075,207.571)">
+        </g>
+        <text x="179.733px" y="207.571px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:12px;fill:white;">Gruvbox</text>
+    </g>
+</svg>

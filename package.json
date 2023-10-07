@@ -1,0 +1,19 @@
+{
+    "name": "logseq-gruvbox-theme",
+    "description": "🧛 Gruvbox theme for Logseq.",
+    "author": "slybouhafs",
+    "version": "0.0.1",
+    "repo": "shifaz/logseq-gruvbox-theme",
+    "logseq": {
+      "themes": [
+        {
+          "name": "Gruvbox theme",
+          "url": "./custom.css",
+          "description": "🧛 Gruvbox theme for Logseq.",
+          "mode": "dark"
+        }
+      ],
+      "id": "gruvbox_logseq",
+      "icon": "./icon.svg"
+    }
+  }
